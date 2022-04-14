@@ -53,6 +53,7 @@ body {
 	appearance: none;
 	border-radius: 0;
 	text-align: center;
+	color: black;
 }
 .calculator > button:hover {
 	background-color: hsla(0, 0%, 100%, 1);
