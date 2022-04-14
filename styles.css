@@ -1,5 +1,5 @@
-@import "https://unpkg.com/reset-css@5.0.1/reset.css";
-@import "https://unpkg.com/normalize-css@2.3.1/normalize.css";
+/* @import "https://unpkg.com/reset-css@5.0.1/reset.css"; */
+/* @import "https://unpkg.com/normalize-css@2.3.1/normalize.css"; */
 *,
 *::before,
 *::after {
@@ -48,6 +48,10 @@ body {
 	outline: none;
 	background-color: hsla(0, 0%, 100%, 0.75);
 	margin: 0;
+	-webkit-appearance: none;
+	-moz-appearance: none;
+	appearance: none;
+	border-radius: 0;
 }
 .calculator > button:hover {
 	background-color: hsla(0, 0%, 100%, 1);
