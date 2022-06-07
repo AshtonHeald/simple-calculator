@@ -1,5 +1,5 @@
 # simple-calculator
-> 1st iteration of calculator for tool page on personal start page.
+> 1st iteration of calculator for tool page on start page.
 ### About
 Pure vanilla JavaScript calculator using modern ES6 syntax and classes
 ### Learned
